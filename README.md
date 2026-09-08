@@ -1,10 +1,10 @@
 # 💫 About Me
-Hi, I'm **Lorenzo** a **20yo FiveM developer** (since **2020**) and **Computer Science student** at **[ITS ITC Rome](https://www.its-ictacademy.com)** and previously studied at **[Sapienza Universi](https://www.uniroma1.it/)**
+Hi, I'm **Lorenzo** a **20yo FiveM developer** (since **2020**) and **Computer Science student** at **[ITS ITC Rome](https://www.its-ictacademy.com)** and previously studied at **[Sapienza University](https://www.uniroma1.it/)**
 
-### 🔭 Currently working on
+### 🔭 Currently working as Founder & Main Developer on:
 - [**Artemis RolePlay**](https://discord.gg/artemisrp): my main FiveM server with **30,000+ users**
 
-### 🧰 Previously worked on
+### 🧰 Previously worked as Main Developer on:
 - [**Emerals RolePlay**](https://discord.gg/emeralsrp): Italy's most-played FiveM server (**350,000+ users**)
 
 ### 📫 Contact
