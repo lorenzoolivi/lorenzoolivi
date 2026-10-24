@@ -9,6 +9,7 @@ Hi, I'm **Lorenzo** a **20yo FiveM developer** (since **2020**) and **Computer S
 
 ### 📫 Contact
 - **Discord:** `lorenzoolivii`
+- **Linkedin:** [lorenzoolivi](https://www.linkedin.com/in/lorenzoolivi)
 - **Email:** [olivi.lory@gmail.com](mailto:olivi.lory@gmail.com)
 
 ### 💻 Tech Stack
